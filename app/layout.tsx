@@ -6,22 +6,22 @@ import "./globals.css";
 const iranSansX = localFont({
   src: [
     {
-      path: "../public/fonts/IRANSansX-Light.woff2",
+      path: "../fonts/IRANSansX-Light.woff2",
       weight: "300",
       style: "normal",
     },
     {
-      path: "../public/fonts/IranSansX-Regular.woff2",
+      path: "../fonts/IranSansX-Regular.woff2",
       weight: "400",
       style: "normal",
     },
     {
-      path: "../public/fonts/IranSansX-Medium.woff2",
+      path: "../fonts/IranSansX-Medium.woff2",
       weight: "500",
       style: "normal",
     },
     {
-      path: "../public/fonts/IranSansX-Bold.woff2",
+      path: "../fonts/IranSansX-Bold.woff2",
       weight: "700",
       style: "normal",
     },
@@ -36,17 +36,17 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/public/logo-patoghmobile.png",
+        url: "/logo-patoghmobile.png",
 
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/public/logo-patoghmobile.png",
+        url: "/logo-patoghmobile.png",
         media: "(prefers-color-scheme: dark)",
       },
-      { url: "/public/logo-patoghmobile.png", type: "image/svg+xml" },
+      { url: "/logo-patoghmobile.png", type: "image/svg+xml" },
     ],
-    apple: "/public/logo-patoghmobile.png",
+    apple: "/logo-patoghmobile.png",
   },
 };
 
