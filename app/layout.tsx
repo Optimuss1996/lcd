@@ -6,22 +6,22 @@ import "./globals.css";
 const iranSansX = localFont({
   src: [
     {
-      path: "../fonts/IRANSansX-Light.woff2",
+      path: "../public/fonts/IRANSansX-Light.woff2",
       weight: "300",
       style: "normal",
     },
     {
-      path: "../fonts/IranSansX-Regular.woff2",
+      path: "../public/fonts/IRANSansX-Regular.woff2",
       weight: "400",
       style: "normal",
     },
     {
-      path: "../fonts/IranSansX-Medium.woff2",
+      path: "../public/fonts/IranSansX-Medium.woff2",
       weight: "500",
       style: "normal",
     },
     {
-      path: "../fonts/IranSansX-Bold.woff2",
+      path: "../public/fonts/IranSansX-Bold.woff2",
       weight: "700",
       style: "normal",
     },
