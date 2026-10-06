@@ -16,12 +16,12 @@ const iranSansX = localFont({
       style: "normal",
     },
     {
-      path: "../public/fonts/IranSansX-Medium.woff2",
+      path: "../public/fonts/IRANSansX-Medium.woff2",
       weight: "500",
       style: "normal",
     },
     {
-      path: "../public/fonts/IranSansX-Bold.woff2",
+      path: "../public/fonts/IRANSansX-Bold.woff2",
       weight: "700",
       style: "normal",
     },
